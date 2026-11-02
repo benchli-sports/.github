@@ -4,7 +4,7 @@
 
 **Built for teams. Made for players.**
 
-[benchli.com](https://www.benchli.com/) · [Status](https://status.benchli.com/) · Made in Switzerland 🇨🇭
+[benchli.com](https://www.benchli.com/) · [Status](https://status.benchli.com/) · Made in Switzerland <img src="swiss-flag.svg" alt="" width="14" height="14">
 
 </div>
 
