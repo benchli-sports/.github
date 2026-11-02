@@ -32,6 +32,6 @@ Issues and pull requests are welcome on both.
 
 - Try benchli, or bring your team on board: [benchli.com](https://www.benchli.com/)
 - A question about OTSD or codeterrain: open an issue in that repository.
-- A security issue: please don't open a public issue. Email **support@benchli.com** with "Security" in the subject.
+- A security issue: please don't open a public issue. Email **benchli_operations@benchli.com** with "Security" in the subject.
 
 <sub>benchli is a product of Mitbolas GmbH, Switzerland.</sub>
